@@ -152,7 +152,9 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      GhostEyesDown_0: 4394670131782616943
+      GhostEyesDown_1: 7440362231665197927
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

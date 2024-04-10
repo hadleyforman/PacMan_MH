@@ -128,7 +128,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Frightened1_0: 3089486301021054157
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

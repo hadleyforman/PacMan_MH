@@ -128,7 +128,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Blinking_0: -592452517654456020
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
