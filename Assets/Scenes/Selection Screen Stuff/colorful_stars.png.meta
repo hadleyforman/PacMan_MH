@@ -224,7 +224,12 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      colorful_stars_0: -9150847988022985835
+      colorful_stars_1: 6795004629974666834
+      colorful_stars_2: -3406282041804763112
+      colorful_stars_3: -8233846523412728622
+      colorful_stars_4: -1173307286451360192
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
