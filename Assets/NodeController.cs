@@ -1,5 +1,7 @@
+using JetBrains.Annotations;
 using System.Collections;
 using System.Collections.Generic;
+using UnityEditor.Experimental.GraphView;
 using UnityEngine;
 
 public class NodeController : MonoBehaviour
@@ -47,7 +49,7 @@ public class NodeController : MonoBehaviour
             if (distance < 0.4f)
             {
                 canMoveUp = true;
-                nodeUp =hitsUp[i].collider.gameObject;
+                nodeUp = hitsUp[i].collider.gameObject;
             }
         }
 
@@ -82,14 +84,39 @@ public class NodeController : MonoBehaviour
             if (distance < 0.4f)
             {
                 canMoveLeft = true;
-                nodeLeft = hitsLeft[i].collider.gameObject; 
+                nodeLeft = hitsLeft[i].collider.gameObject;
             }
         }
+    }
 
         // Update is called once per frame
         void Update()
         {
 
         }
+
+        public GameObject GetNodefromDirection(string direction)
+        { 
+            if (direction == "left" && canMoveLeft)
+            {
+                return nodeLeft;
+            }
+            else if (direction == "right" && canMoveRight)
+            {
+                return nodeRight;
+            }
+            else if (direction == "up" && canMoveUp)
+            {
+                return nodeUp;
+            }
+            else if (direction == "down" && canMoveDown)
+            {
+                return nodeDown;
+            }
+            else
+            {
+                return null;
+            }
+        }
     }
-}
+
