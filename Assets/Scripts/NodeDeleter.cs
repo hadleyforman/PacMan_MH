@@ -18,7 +18,7 @@ public class NodeDeleter : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.tag == "Node")
+        if (collision.tag == "Node2")
         {
             Destroy(collision.gameObject);
         }
