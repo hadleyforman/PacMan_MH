@@ -46,7 +46,7 @@ public class NodeController : MonoBehaviour
         for (int i = 0; i < hitsUp.Length; i++)
         {
             float distance = Mathf.Abs(hitsUp[i].point.y - transform.position.y);
-            if (distance < 0.4f)
+            if (distance < 0.2f)
             {
                 canMoveUp = true;
                 nodeUp = hitsUp[i].collider.gameObject;
