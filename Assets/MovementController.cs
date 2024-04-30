@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UIElements;
 
@@ -25,9 +26,17 @@ public class MovementController : MonoBehaviour
 
         transform.position = Vector2.MoveTowards(transform.position, currentNode.transform.position, speed * Time.deltaTime);
 
+        bool reverseDirection = false;
+        if(
+           (direction == "left" && lastMovingDirection == "right")
+            || (direction == "right" && lastMovingDirection == "left")
+            || (direction == "up" && lastMovingDirection == "down")
+            || (direction == "down" && lastMovingDirection == "up")
+            )
+            reverseDirection = true;
 
         //figure out if we're @ center of current node
-        if ((transform.position.x == currentNode.transform.position.x && transform.position.y == currentNode.transform.position.y))
+        if ((transform.position.x == currentNode.transform.position.x && transform.position.y == currentNode.transform.position.y) || reverseDirection)
         {
             //get next node 
             GameObject newNode = currentNodeController.GetNodefromDirection(direction);
@@ -37,6 +46,7 @@ public class MovementController : MonoBehaviour
                 currentNode = newNode;
                 lastMovingDirection = direction;
             }
+            // try to go in last moving because cannot go in desired direction
             else
             {
                 direction = lastMovingDirection;
