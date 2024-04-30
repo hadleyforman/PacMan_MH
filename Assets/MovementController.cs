@@ -15,7 +15,7 @@ public class MovementController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+
     }
 
     // Update is called once per frame
@@ -24,26 +24,15 @@ public class MovementController : MonoBehaviour
         NodeController currentNodeController = currentNode.GetComponent<NodeController>();
 
         transform.position = Vector2.MoveTowards(transform.position, currentNode.transform.position, speed * Time.deltaTime);
-        bool reverseDirection = false;
 
-        if (
-           (direction == "left" && lastMovingDirection == "right") ||
-            (direction == "right" && lastMovingDirection == "left") ||
-            (direction == "up" && lastMovingDirection == "down") ||
-            (direction == "down" && lastMovingDirection == "up")
-            )
-        { 
-        reverseDirection = true;
-    }
 
-        //add the || reverse!!!!!!!!!!!!!!!!!!!
         //figure out if we're @ center of current node
         if ((transform.position.x == currentNode.transform.position.x && transform.position.y == currentNode.transform.position.y))
-            { 
+        {
             //get next node 
             GameObject newNode = currentNodeController.GetNodefromDirection(direction);
-       
-        if(newNode != null )
+
+            if (newNode != null)
             {
                 currentNode = newNode;
                 lastMovingDirection = direction;
@@ -52,17 +41,18 @@ public class MovementController : MonoBehaviour
             {
                 direction = lastMovingDirection;
                 newNode = currentNodeController.GetNodefromDirection(direction);
-                if(newNode != null )
+                if (newNode != null)
                 {
                     currentNode = newNode;
                 }
             }
         }
+
+
     }
 
     public void SetDirection(string newDirection)
     {
         direction = newDirection;
     }
-
 }
