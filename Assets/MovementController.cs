@@ -41,7 +41,7 @@ public class MovementController : MonoBehaviour
             //get next node 
             GameObject newNode = currentNodeController.GetNodefromDirection(direction);
 
-            if (newNode != null)
+            if (newNode != null && newNode.tag == "Node2")
             {
                 currentNode = newNode;
                 lastMovingDirection = direction;
