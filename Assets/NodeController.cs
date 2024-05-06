@@ -17,8 +17,20 @@ public class NodeController : MonoBehaviour
     public GameObject nodeUp;
     public GameObject nodeDown;
 
+    public bool isPelletNode = false;
+    public bool hasPellet = false;
+
+    public SpriteRenderer pelletSprite;
+
     void Start()
     {
+        if (transform.childCount > 0)
+        {
+            hasPellet = true;
+            isPelletNode = true;
+            pelletSprite = GetComponentInChildren<SpriteRenderer>();
+        }
+
         RaycastHit2D[] hitsDown;
         //shoot a raycast line going down
         hitsDown = Physics2D.RaycastAll(transform.position, -Vector2.up);
@@ -118,5 +130,14 @@ public class NodeController : MonoBehaviour
                 return null;
             }
         }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if(collision.tag == "Player" && isPelletNode)
+        {
+            hasPellet = false;
+            pelletSprite.enabled = false;
+        }
     }
+}
 

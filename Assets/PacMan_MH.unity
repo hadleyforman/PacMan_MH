@@ -175,6 +175,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &972046
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -374,6 +377,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &18536406
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -489,6 +495,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &19023582
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -856,6 +865,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &42401265
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1139,6 +1151,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &44405940
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1254,6 +1269,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &50629795
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1369,6 +1387,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &51121987
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1568,6 +1589,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &62268014
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1683,6 +1707,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &62807453
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1882,6 +1909,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &65403756
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2620,6 +2650,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &78926882
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2735,6 +2768,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &83726138
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2850,6 +2886,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &91668170
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2965,6 +3004,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &92564890
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3080,6 +3122,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &93163086
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3195,6 +3240,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &93546299
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3394,6 +3442,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &97373946
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3796,6 +3847,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &104667503
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3995,6 +4049,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &118558068
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4110,6 +4167,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &120482094
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4225,6 +4285,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &129228030
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4793,6 +4856,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &153011170
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4992,6 +5058,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &158227925
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5191,6 +5260,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &164968299
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5306,6 +5378,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &167352691
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5505,6 +5580,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &171969016
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5739,6 +5817,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &175713738
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5854,6 +5935,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &178243663
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6137,6 +6221,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &183006385
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6252,6 +6339,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &183009861
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6451,6 +6541,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &195334533
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6769,6 +6862,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &202683861
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7052,6 +7148,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &207710458
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7335,6 +7434,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &214117016
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7534,6 +7636,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &218737361
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7649,6 +7754,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &219693727
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8016,6 +8124,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &238282768
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8215,6 +8326,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &243396751
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8330,6 +8444,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &245681133
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8445,6 +8562,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &250768079
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8679,6 +8799,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &252532498
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9046,6 +9169,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &270010936
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9245,6 +9371,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &273134372
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9360,6 +9489,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &281186840
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9475,6 +9607,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &288279287
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9590,6 +9725,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &288315121
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9789,6 +9927,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &291539148
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10107,6 +10248,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &297651162
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10222,6 +10366,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &304666201
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10421,6 +10568,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &309521788
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11024,6 +11174,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &338455848
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11711,6 +11864,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &355885509
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11826,6 +11982,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &360997307
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11941,6 +12100,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &368594194
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12056,6 +12218,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &374627330
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12374,6 +12539,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &387112956
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12489,6 +12657,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &387773043
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12604,6 +12775,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &388840009
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12887,6 +13061,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &396555450
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13170,6 +13347,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &402209551
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13343,6 +13523,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &403238961
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13542,6 +13725,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &407003250
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13944,6 +14130,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &408702602
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14059,6 +14248,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &408934009
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14342,6 +14534,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &415571067
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14912,6 +15107,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &433776004
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15027,6 +15225,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &436261258
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15226,6 +15427,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &444250371
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15341,6 +15545,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &449165370
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15456,6 +15663,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &451471160
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15655,6 +15865,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &457391319
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15770,6 +15983,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &459233554
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15969,6 +16185,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &469156780
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16336,6 +16555,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &474446882
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16535,6 +16757,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &483908890
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16650,6 +16875,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &485893289
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16933,6 +17161,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &489789787
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17132,6 +17363,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &494916277
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17786,6 +18020,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &518808418
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17901,6 +18138,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &519188417
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18268,6 +18508,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &530580449
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18551,6 +18794,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &546175556
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18834,6 +19080,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &555996197
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19117,6 +19366,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &562813824
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19232,6 +19484,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &563037341
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19431,6 +19686,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &572293804
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19630,6 +19888,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &579190365
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19829,6 +20090,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &584558223
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20028,6 +20292,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &588321276
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20346,6 +20613,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &591942707
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20797,6 +21067,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &608860278
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20912,6 +21185,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &610626715
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21027,6 +21303,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &613175665
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21142,6 +21421,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &629324125
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21257,6 +21539,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &630806034
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21372,6 +21657,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &631347800
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21487,6 +21775,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &636353122
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21854,6 +22145,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &664501618
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21969,6 +22263,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &666733450
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22512,6 +22809,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &677563240
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22627,6 +22927,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &687625497
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23232,6 +23535,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &703600153
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23599,6 +23905,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &711978067
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23714,6 +24023,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &713021553
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23829,6 +24141,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &719657415
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24264,6 +24579,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &741225376
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24379,6 +24697,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &745539616
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24494,6 +24815,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &747213375
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24609,6 +24933,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &751237882
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24724,6 +25051,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &751945665
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25042,6 +25372,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &756817108
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25157,6 +25490,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &758683191
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25475,6 +25811,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &762931860
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25590,6 +25929,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &768288434
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25789,6 +26131,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &769846852
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26324,6 +26669,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &777951650
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26439,6 +26787,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &782692299
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26554,6 +26905,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &785240691
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26753,6 +27107,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &792358603
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27036,6 +27393,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &794857856
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27235,6 +27595,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &797066467
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27434,6 +27797,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &799283802
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27549,6 +27915,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &799367306
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27664,6 +28033,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &800297392
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27779,6 +28151,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &805126682
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28146,6 +28521,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &823176065
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28716,6 +29094,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &857033100
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29083,6 +29464,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &861181276
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29282,6 +29666,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &868404199
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29516,6 +29903,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &873452635
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29883,6 +30273,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &893259595
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29998,6 +30391,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &899601728
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30281,6 +30677,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &912787897
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30396,6 +30795,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &912815401
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30630,6 +31032,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &918883941
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30745,6 +31150,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &920725875
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30860,6 +31268,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &931428548
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30975,6 +31386,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &931611224
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31090,6 +31504,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &934962500
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31625,6 +32042,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &948821981
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31740,6 +32160,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &953047452
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31855,6 +32278,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &953437866
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32054,6 +32480,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &966821806
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32169,6 +32598,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &967947121
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32403,6 +32835,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &976706749
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32602,6 +33037,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &983075127
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32717,6 +33155,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &983519736
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -33000,6 +33441,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &986925478
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -33115,6 +33559,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &987955042
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -33230,6 +33677,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &988687808
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -33597,6 +34047,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1000234092
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -33712,6 +34165,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1013829042
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -34079,6 +34535,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1036113992
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -34194,6 +34653,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1036554918
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -34393,6 +34855,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1044178876
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -34676,6 +35141,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1057138189
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -34791,6 +35259,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1074317129
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -34906,6 +35377,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1075254916
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -35021,6 +35495,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1081130316
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -35220,6 +35697,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1088421764
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -35419,6 +35899,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1092066710
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -35618,6 +36101,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1092939466
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -35733,6 +36219,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1095077402
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -36184,6 +36673,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1101294745
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -36383,6 +36875,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1104592578
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -36498,6 +36993,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1104602586
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -36697,6 +37195,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1108021326
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -36896,6 +37397,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1121794530
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -37214,6 +37718,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1128961874
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -37329,6 +37836,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1134876355
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -37696,6 +38206,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1149332913
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -37811,6 +38324,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1150173850
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -38381,6 +38897,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1162581922
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -38615,6 +39134,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1175745834
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -38730,6 +39252,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1176271980
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -39048,6 +39573,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1178273411
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -39163,6 +39691,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1180158995
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -39446,6 +39977,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1196307012
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -39561,6 +40095,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1196980279
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -39676,6 +40213,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1206230381
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -39791,6 +40331,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1208999284
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -39906,6 +40449,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1214032910
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -40105,6 +40651,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1220065060
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -40220,6 +40769,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1220377047
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -40755,6 +41307,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1246517935
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -41493,6 +42048,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1268275842
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -41692,6 +42250,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1270429780
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -41891,6 +42452,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1280660260
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -42125,6 +42689,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1284131905
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -42527,6 +43094,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1289434263
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -42894,6 +43464,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1305996878
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -43093,6 +43666,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1309640390
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -43376,6 +43952,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1319674056
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -43491,6 +44070,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1322965543
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -43690,6 +44272,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1334308777
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -43805,6 +44390,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1334627563
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -43920,6 +44508,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1336393407
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -44035,6 +44626,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1341898350
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -44318,6 +44912,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1347962932
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -44517,6 +45114,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1360650627
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -44841,6 +45441,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1377551288
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -45040,6 +45643,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1384019782
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -45155,6 +45761,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1389718888
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -45522,6 +46131,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1393170894
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -45721,6 +46333,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1401872987
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -45836,6 +46451,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1404175381
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -46035,6 +46653,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1411907705
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -46150,6 +46771,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1412510356
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -46265,6 +46889,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1412815278
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -46464,6 +47091,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1416872466
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -46579,6 +47209,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1417964199
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -46778,6 +47411,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1421354557
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -47145,6 +47781,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1428584906
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -47260,6 +47899,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1429483435
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -47375,6 +48017,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1429545822
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -47574,6 +48219,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1434483480
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -47689,6 +48337,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1436104601
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -47888,6 +48539,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1448703965
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -48003,6 +48657,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1452963827
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -48118,6 +48775,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1457203079
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -48193,7 +48853,7 @@ GameObject:
   - component: {fileID: 1461287186}
   m_Layer: 0
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -48444,6 +49104,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1464356090
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -48643,6 +49306,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1475820676
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -49010,6 +49676,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1491303338
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -49244,6 +49913,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1501142027
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -49359,6 +50031,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1501651978
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -49474,6 +50149,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1506229754
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -49757,6 +50435,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1515875785
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -50124,6 +50805,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1535005263
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -50239,6 +50923,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1535211137
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -50606,6 +51293,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1544877207
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -50889,6 +51579,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1552568001
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -51004,6 +51697,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1558370946
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -51119,6 +51815,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1561142596
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -51234,6 +51933,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1561277161
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -51433,6 +52135,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1562912665
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -51632,6 +52337,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1579972972
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -51915,6 +52623,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1585108589
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -52198,6 +52909,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1602894009
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -52481,6 +53195,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1611250456
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -53051,6 +53768,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1632849121
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -53166,6 +53886,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1642499685
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -53281,6 +54004,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1642789450
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -53396,6 +54122,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1652612017
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -53763,6 +54492,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1662717166
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -53878,6 +54610,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1667252854
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -53993,6 +54728,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1669600703
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -54227,6 +54965,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1676014368
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -54342,6 +55083,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1677014433
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -54457,6 +55201,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1679945059
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -54740,6 +55487,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1689059646
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -54974,6 +55724,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1701921554
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -55089,6 +55842,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1703575161
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -55204,6 +55960,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1709004638
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -55319,6 +56078,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1717969925
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -55602,6 +56364,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1728275924
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -55717,6 +56482,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1729313087
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -56203,6 +56971,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1738806476
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -56402,6 +57173,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1743802722
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -56517,6 +57291,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1753264825
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -56632,6 +57409,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1753536816
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -56915,6 +57695,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1765143703
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -57114,6 +57897,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1774401379
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -57313,6 +58099,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1779769799
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -57596,6 +58385,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1798883379
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -57711,6 +58503,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1803210768
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -57826,6 +58621,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1804216313
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -58025,6 +58823,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1810222308
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -58392,6 +59193,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1819399889
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -58507,6 +59311,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1828825267
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -58706,6 +59513,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1837975254
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -58989,6 +59799,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1846835972
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -59104,6 +59917,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1857001690
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -59387,6 +60203,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1868519868
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -59502,6 +60321,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1871501483
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -59785,6 +60607,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1875354382
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -60017,6 +60842,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1897248972
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -60216,6 +61044,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1900706689
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -60499,6 +61330,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1913974004
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -60698,6 +61532,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1918705767
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -60897,6 +61734,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1920495060
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -61299,6 +62139,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1933120178
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -61582,6 +62425,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1945724803
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -61697,6 +62543,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1948711835
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -61812,6 +62661,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1948953379
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -62011,6 +62863,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1953349110
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -62126,6 +62981,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1959725400
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -62241,6 +63099,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1960719268
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -62440,6 +63301,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1961981480
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -62555,6 +63419,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1962473603
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -63207,6 +64074,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1987853054
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -63322,6 +64192,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1996115719
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -63437,6 +64310,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1997504928
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -63636,6 +64512,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &1999114135
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -63835,6 +64714,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &2001074505
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -63950,6 +64832,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &2003392422
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -64065,6 +64950,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &2003833647
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -64264,6 +65152,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &2005504123
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -64631,6 +65522,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &2032503478
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -64746,6 +65640,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &2035336775
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -64861,6 +65758,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &2042177435
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -64976,6 +65876,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &2044055419
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -65376,6 +66279,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &2053773180
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -65692,6 +66598,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &2065211911
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -65807,6 +66716,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &2073508713
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -66041,6 +66953,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &2075636618
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -66156,6 +67071,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &2087736108
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -66271,6 +67189,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &2090753824
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -66974,6 +67895,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &2108901689
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -67089,6 +68013,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &2115828270
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -67288,6 +68215,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &2130798311
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -67403,6 +68333,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &2134686961
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -67518,6 +68451,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &2139672220
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -67717,6 +68653,9 @@ MonoBehaviour:
   nodeRight: {fileID: 0}
   nodeUp: {fileID: 0}
   nodeDown: {fileID: 0}
+  isPelletNode: 0
+  hasPellet: 0
+  pelletSprite: {fileID: 0}
 --- !u!114 &2146646829
 MonoBehaviour:
   m_ObjectHideFlags: 0
