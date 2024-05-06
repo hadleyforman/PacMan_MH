@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Node
   - Node2
+  - GhostNode
+  - Enemy
   layers:
   - Default
   - TransparentFX
