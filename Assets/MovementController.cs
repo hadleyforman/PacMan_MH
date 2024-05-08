@@ -1,11 +1,13 @@
 using System.Collections;
 using System.Collections.Generic;
 using Unity.VisualScripting;
+using UnityEditor.Build.Content;
 using UnityEngine;
 using UnityEngine.UIElements;
 
 public class MovementController : MonoBehaviour
 {
+    public GameManager gameManager;
 
     public GameObject currentNode;
     public float speed = 4f;
@@ -13,10 +15,12 @@ public class MovementController : MonoBehaviour
     public string direction = " ";
     public string lastMovingDirection = "";
 
+    public bool isGhost = false;
+
     // Start is called before the first frame update
     void Start()
     {
-
+        
     }
 
     // Update is called once per frame
@@ -38,6 +42,10 @@ public class MovementController : MonoBehaviour
         //figure out if we're @ center of current node
         if ((transform.position.x == currentNode.transform.position.x && transform.position.y == currentNode.transform.position.y) || reverseDirection)
         {
+            if (isGhost)
+            {
+                GetComponent<EnemyController>().ReachedCenterOfNode(currentNodeController);
+            }
             //get next node 
             GameObject newNode = currentNodeController.GetNodefromDirection(direction);
 
