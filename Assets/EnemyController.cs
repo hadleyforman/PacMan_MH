@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Numerics;
 using UnityEngine;
+using Vector2 = UnityEngine.Vector2;
 
 public class EnemyController : MonoBehaviour
 {
@@ -116,7 +117,7 @@ public class EnemyController : MonoBehaviour
 
     void DetermineRedGhostDirection()
     {
-        String direction = GetClosestDirection(gameManager.pacman.transform.position);
+        string direction = GetClosestDirection(gameManager.pacman.transform.position);
         movementController.SetDirection(direction);
 
     }
@@ -133,7 +134,7 @@ public class EnemyController : MonoBehaviour
     {
     }
 
-    void GetClosestDirection(Vector2 target)
+    string GetClosestDirection(Vector2 target)
     {
         float shortestDistance = 0;
         string lastMovingDirection = movementController.lastMovingDirection;
@@ -173,7 +174,7 @@ public class EnemyController : MonoBehaviour
 {
             GameObject nodeLeft = nodeController.nodeLeft;
             // get distance between top node and pacman
-            Float distance = Vector2.Distance(nodeLeft.transform.position, target);
+            float distance = Vector2.Distance(nodeLeft.transform.position, target);
 
             // if this is the shortest distance so far, set our direction
             if (distance < shortestDistance || shortestDistance == 0)
@@ -183,7 +184,7 @@ public class EnemyController : MonoBehaviour
             }
         }
         if (nodeController.canMoveRight && lastMovingDirection != "left")
-{
+        {
             GameObject nodeRight = nodeController.nodeRight;
             // get distance between top node and pacman
             float distance = Vector2.Distance(nodeRight.transform.position, target);
@@ -195,6 +196,8 @@ public class EnemyController : MonoBehaviour
                 newDirection = "right";
             }
         }
+
+        return newDirection;
     }
 
 
