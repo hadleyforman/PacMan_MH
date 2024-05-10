@@ -38,7 +38,7 @@ public class EnemyController : MonoBehaviour
 
     public GameObject startingNode;
 
-    public bool readyToLeaveHome = false;
+    public bool readyToLeaveHome = true;
 
     public GameManager gameManager;
 
@@ -68,6 +68,7 @@ public class EnemyController : MonoBehaviour
             startingNode = ghostNodeRight;
         }
         movementController.currentNode = startingNode;
+        transform.position = startingNode.transform.position;
     }
 
     // Update is called once per frame
@@ -81,6 +82,10 @@ public class EnemyController : MonoBehaviour
         if (ghostNodeState == GhostNodeStatesEnum.movingInNodes)
         {
             // determine next game node to go to
+            if (ghostType == GhostType.red) 
+            {
+                DetermineRedGhostDirection();
+            }
         }
         else if (ghostNodeState == GhostNodeStatesEnum.respawning)
         {
@@ -91,7 +96,7 @@ public class EnemyController : MonoBehaviour
             // if we are ready to leave home, left or right move to center, center move to start, start actually move
             if (readyToLeaveHome)
             {
-                if(ghostNodeState == GhostNodeStatesEnum.leftNode)
+                if (ghostNodeState == GhostNodeStatesEnum.leftNode)
                 {
                     ghostNodeState = GhostNodeStatesEnum.centerNode;
                     movementController.SetDirection("right");
